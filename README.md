@@ -22,7 +22,7 @@ Thunderbird once again failed to connect on startup. This suggests resetting the
 <h3>Establish a Theory of Probable Cause: </h3>
 
 1. <s>Credentials are being flagged by Comcast</s>
-2. Thunderbird client is the problem. Check the saved account information to see if there is a mismatch or conflict. &#9989;
+2. Thunderbird client is the problem. Check the saved account information to see if there is a conflict. &#9989;
 
 
 <h3>Test the Theory to Determine the Cause: </h3>
